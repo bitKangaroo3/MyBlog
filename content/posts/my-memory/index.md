@@ -1,6 +1,6 @@
 ---
 title: あの頃の俺たち・・・
-slug: test-in-japanese
+slug: those-days-we-were
 date: 2019-06-28
 generate-card: true
 language: ja
